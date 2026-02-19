@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Apple",
+        "price":120.0,
+        "origin":"USA"
+    },
+    {
+        "id":2,
+        "name":"Banana",
+        "price":60.0,
+        "origin":"India"
+    },
+    {
+        "id":3,
+        "name":"Orange",
+        "price":80.0,
+        "origin":"Brazil"
+    },
+    {
+        "id":4,
+        "name":"Mango",
+        "price":null,
+        "origin":"Bangladesh"
+    },
+    {
+        "id":5,
+        "name":null,
+        "price":200.0,
+        "origin":"Italy"
+    }
+]

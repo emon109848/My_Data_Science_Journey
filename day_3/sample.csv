@@ -1,0 +1,6 @@
+id,name,price,origin
+1,Apple,120.0,USA
+2,Banana,60.0,India
+3,Orange,80.0,Brazil
+4,Mango,,Bangladesh
+5,,200.0,Italy
